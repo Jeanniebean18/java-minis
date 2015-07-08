@@ -1,0 +1,28 @@
+#menu {
+  position: relative;    
+}
+
+#menu li {
+  display: inline;
+  border: 1px black solid;
+}
+
+#content1 {
+  position: absolute;
+  border: 1px black solid;
+  background-color:gray;
+  visibility: visible;
+}
+
+#content2 {
+  position: absolute;
+  border: 1px black solid;
+  background-color:gray;
+  visibility: hidden;
+}
+
+#content3 {
+  border: 1px black solid;
+  background-color:gray;
+  visibility: hidden;
+}
